@@ -1,9 +1,0 @@
-C:\Users\pbaht\Desktop\разное\Компонентное программирование\Lab\PointLib\bin\Debug\PointLib.dll
-C:\Users\pbaht\Desktop\разное\Компонентное программирование\Lab\PointLib\bin\Debug\PointLib.pdb
-C:\Users\pbaht\Desktop\разное\Компонентное программирование\Lab\PointLib\bin\Debug\PointLib.xml
-C:\Users\pbaht\Desktop\разное\Компонентное программирование\Lab\PointLib\obj\Debug\PointLib.Resources.resources
-C:\Users\pbaht\Desktop\разное\Компонентное программирование\Lab\PointLib\obj\Debug\PointLib.vbproj.GenerateResource.cache
-C:\Users\pbaht\Desktop\разное\Компонентное программирование\Lab\PointLib\obj\Debug\PointLib.vbproj.CoreCompileInputs.cache
-C:\Users\pbaht\Desktop\разное\Компонентное программирование\Lab\PointLib\obj\Debug\PointLib.dll
-C:\Users\pbaht\Desktop\разное\Компонентное программирование\Lab\PointLib\obj\Debug\PointLib.xml
-C:\Users\pbaht\Desktop\разное\Компонентное программирование\Lab\PointLib\obj\Debug\PointLib.pdb
